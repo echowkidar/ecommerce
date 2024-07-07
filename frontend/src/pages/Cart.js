@@ -4,7 +4,7 @@ function Cart() {
   return (
     <div>
       <h1>Welcome to our Ecommerce Store</h1>
-      <p>This is the cart page.</p>
+      <p>This is the home page.</p>
     </div>
   );
 }
